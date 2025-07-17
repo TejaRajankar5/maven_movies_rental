@@ -82,7 +82,7 @@ Retrieve customer first name, last name, and email ID.
 ![Most Spending Customer](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_SPENDING_CUSTOMER.png)
 
 ### 10. Store with Most Revenue
-![Highest Revenue Store](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_REVENUE.png)
+![Highest Revenue Store](https://github.com/TejaRajankar5/maven_movies_rental/blob/main/Code_Output/10.png)
 
 ### 11. Monthly Rentals Count
 ![Rentals Per Month](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/RENTALS_PER_MONTH.png)
